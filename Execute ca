@@ -1,3 +1,1 @@
-loadstring(
-		game:HttpGet("https://raw.githubusercontent.com/sinbad1324/FINDuScript/main/FinduScriptNeLemedifipo")
-	)()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sinbad1324/FINDuScript/main/FinduScriptNeLemedifipo"))()
